@@ -1,4 +1,14 @@
 # NAME: ubisoft
 #育碧游戏
-DOMAIN-SUFFIX,ubi.com
 
+DOMAIN,metrics.live.public.prod.ubiconnect.fleet.ubi.com
+DOMAIN,client-metrics-gateway-api.live.public.prod.orwell.fleet.ubi.com
+DOMAIN,public-im-ubiservices.ubi.com
+DOMAIN,public-ws-ubiservices.ubi.com
+DOMAIN,public-ubiservices.ubi.com
+DOMAIN,emea-storm.ubi.com
+DOMAIN,ncsa-storm.ubi.com
+DOMAIN,apac-storm.ubi.com
+DOMAIN,ap-southeast-2-storm.ubi.com
+DOMAIN,static3.cdn.ubi.com
+DOMAIN-SUFFIX,ubi.com
