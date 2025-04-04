@@ -1,6 +1,7 @@
 # NAME: ubisoft
 #育碧游戏
-
+DOMAIN,dmx.upc.ubisoft.com
+DOMAIN,staticctf.ubisoft.com
 DOMAIN,metrics.live.public.prod.ubiconnect.fleet.ubi.com
 DOMAIN,client-metrics-gateway-api.live.public.prod.orwell.fleet.ubi.com
 DOMAIN,public-im-ubiservices.ubi.com
