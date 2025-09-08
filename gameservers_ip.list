@@ -1,1 +1,6 @@
-
+DOMAIN-SUFFIX,cdpred.services
+IP-CIDR,54.196.201.68/24,no-resolve
+IP-CIDR,3.76.10.36/24,no-resolve
+IP-CIDR,3.87.199.249/24,no-resolve
+IP-CIDR,54.174.156.6/24,no-resolve
+IP-CIDR,100.26.191.49/24,no-resolve
