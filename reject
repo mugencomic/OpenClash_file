@@ -1,0 +1,4 @@
+# 内容：禁止访问
+# 域名后缀匹配
+DOMAIN-SUFFIX,adobe.io
+DOMAIN-SUFFIX,adobestats.io
