@@ -4,10 +4,6 @@
 # UPDATED: 2025-06-06 09:16:55
 # DOMAIN-KEYWORD: 2
 # DOMAIN-SUFFIX: 544
-# IP-ASN: 1
-# IP-CIDR: 23
-# TOTAL: 570
-payload:
   - DOMAIN-SUFFIX,aboutfacebook.com
   - DOMAIN-SUFFIX,accessfacebookfromschool.com
   - DOMAIN-SUFFIX,accountkit.com
