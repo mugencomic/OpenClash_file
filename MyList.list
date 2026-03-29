@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,universalis.app
 DOMAIN-SUFFIX,gshade.org
 DOMAIN-SUFFIX,52poke.com
 DOMAIN-SUFFIX,52poke.wiki
-#DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,square-enix.com
 DOMAIN-SUFFIX,proxmox.com
 DOMAIN-SUFFIX,ghproxy.com
@@ -20,3 +19,4 @@ DOMAIN-SUFFIX,benchmarks.ul.com
 DOMAIN-SUFFIX,commons.ul.com
 DOMAIN-SUFFIX,3dmark.com
 DOMAIN-SUFFIX,adjust.com
+#DOMAIN-SUFFIX,plex.tv
