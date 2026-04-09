@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,cdn.ubionline.com.cn
+DOMAIN, staticctf.ubisoft.com
+DOMAIN, static3.cdn.ubi.com
+DOMAIN, apac-storm.ubi.com
+DOMAIN-SUFFIX, cdn.ubi.com
+DOMAIN-SUFFIX, cdn.ubisoft.com
+DOMAIN-SUFFIX, akamaihd.net
+DOMAIN-SUFFIX, pinyuncloud.com
+
+# 主要PC下载节点（单独放行，防止被上层泛域名代理）
+DOMAIN, uplaypc-s.cdn.ubi.com
+DOMAIN, uplaypc-p.cdn.ubi.com
+DOMAIN, uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN, dl.ubisoft.com
+DOMAIN, dl.ubi.com
