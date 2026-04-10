@@ -3,6 +3,8 @@
 DOMAIN, public-ws-ubiservices.ubi.com
 
 #同步存档
+DOMAIN,ubisoft-uplay-savegames.s3.amazonaws.com
+
 DOMAIN,dmx.upc.ubisoft.com
 
 DOMAIN,staticctf.ubisoft.com
