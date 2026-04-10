@@ -2,7 +2,9 @@
 #育碧游戏
 DOMAIN, public-ws-ubiservices.ubi.com
 
+#同步存档
 DOMAIN,dmx.upc.ubisoft.com
+
 DOMAIN,staticctf.ubisoft.com
 DOMAIN,metrics.live.public.prod.ubiconnect.fleet.ubi.com
 DOMAIN,client-metrics-gateway-api.live.public.prod.orwell.fleet.ubi.com
