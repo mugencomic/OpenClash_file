@@ -29,3 +29,5 @@ DOMAIN,acme-v02.api.letsencrypt.org
 DOMAIN,acme-staging-v02.api.letsencrypt.org
 DOMAIN-SUFFIX,letsencrypt.org
 #DOMAIN,api.cloudflare.com
+
+DOMAIN-SUFFIX,istoreos.com
