@@ -21,3 +21,11 @@ DOMAIN-SUFFIX,3dmark.com
 DOMAIN-SUFFIX,adjust.com
 #DOMAIN-SUFFIX,plex.tv
 DOMAIN,wiki.metacubex.one
+
+#签发证书
+DOMAIN-SUFFIX,zerossl.com
+DOMAIN,acme.zerossl.com
+DOMAIN,acme-v02.api.letsencrypt.org
+DOMAIN,acme-staging-v02.api.letsencrypt.org
+DOMAIN-SUFFIX,letsencrypt.org
+DOMAIN,api.cloudflare.com
