@@ -31,3 +31,4 @@ DOMAIN-SUFFIX,letsencrypt.org
 #DOMAIN,api.cloudflare.com
 
 DOMAIN-SUFFIX,istoreos.com
+DOMAIN,cdn.winscp.net
