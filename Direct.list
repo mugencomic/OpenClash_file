@@ -5,6 +5,10 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,istore.immortalwrt.com
+DOMAIN-SUFFIX,istore.linkease.com
+DOMAIN-SUFFIX,istore.istoreos.com
+DOMAIN-SUFFIX,cdn.koolcenter.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
