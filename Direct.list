@@ -3,6 +3,10 @@
 # MyList
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
+#微软推送
+DOMAIN-SUFFIX,wns.windows.com   
+
+
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 DOMAIN-SUFFIX,istore.immortalwrt.com
