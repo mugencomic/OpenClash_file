@@ -29,6 +29,7 @@ DOMAIN,wiki.metacubex.one
 DOMAIN-SUFFIX,data.ai
 DOMAIN,bam.nr-data.net  
 DOMAIN,static-b.aa-cdn.net
+DOMAIN,static-s.aa-cdn.net
 
 #签发证书
 DOMAIN-SUFFIX,zerossl.com
