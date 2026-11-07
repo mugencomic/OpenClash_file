@@ -11,7 +11,6 @@ DOMAIN-SUFFIX,ghproxy.com
 DOMAIN-SUFFIX,appsflyer.com
 DOMAIN-SUFFIX,appsflyer.chat.getzowie.com
 DOMAIN-SUFFIX,singular.net
-DOMAIN-SUFFIX,data.ai
 DOMAIN-SUFFIX,truenas.com
 DOMAIN-SUFFIX,truenas.net
 DOMAIN-SUFFIX,drivers.amd.com
@@ -25,6 +24,11 @@ DOMAIN-SUFFIX,adjust.com
 #DOMAIN-SUFFIX,plex.tv
 DOMAIN-SUFFIX,i.mjh.nz
 DOMAIN,wiki.metacubex.one
+
+#data.ai
+DOMAIN-SUFFIX,data.ai
+DOMAIN,bam.nr-data.net  
+DOMAIN,static-b.aa-cdn.net
 
 #签发证书
 DOMAIN-SUFFIX,zerossl.com
